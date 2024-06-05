@@ -14,9 +14,9 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: M. Docs # the main title
+title: M-Docs # the main title
 
-tagline: Mis posts # it will display as the sub-title
+tagline: Experimentos y pruebas # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Página para mis blogs personales.
@@ -28,8 +28,8 @@ url: "https://ManuelEspejo.github.io"
 github:
   username: ManuelEspejo # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: manuelesph@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/ManuelEspejo # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

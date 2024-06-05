@@ -1,11 +1,9 @@
 ---
 title: Los límites de la IA para el análisis de los sueños
 date: 2024-04-26
-categories: [sueños,llm]
-tags: [sueños,llm,ia]
+categories: [Sueños, LLM, AI, Experimentos]
+tags: [sueños,llm,ai]
 ---
-
-# Los límites de la IA para el análisis de los sueños
 
 Tras varios experimentos usando la IA para explorar mis sueños, he encontrado algunas limitaciones que considero importantes para tener en cuenta a la hora de usar esta tecnología como acompañante inseparable en este proceso.
 
@@ -203,5 +201,6 @@ En resumen, si quieres un análisis onírico útil con la IA, te recomiendo lo s
 
 Suerte en tu exploración onírica, y hasta la próxima.
 
-**Notas**
-El asistente que he usado para mis pruebas es el que tengo subido en [este repositorio de GitHub](https://github.com/ManuelEspejo/Asitente-Onirico-OpenAI).
+## Notas
+
+- [Repositorio de GitHub del Asistente](https://github.com/ManuelEspejo/Asitente-Onirico-OpenAI).
