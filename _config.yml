@@ -11,15 +11,33 @@ lang: es
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Europe/Madrid
 
+
+# Navigation menu
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Categorías"
+    url: "/categories/"
+  - title: "About"
+    url: "/about/"
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: M-Docs # the main title
+title: Manuel Espejo # the main title
 
-tagline: Experimentos y pruebas # it will display as the sub-title
+tagline: >-
+  Machine Learning y Deep Learning🤖🧠
+  Enamorado de la IA💕
+  Onironauta🌙
+# it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Página para mis blogs personales.
+
+
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -67,6 +85,11 @@ goatcounter:
 #     dark   - Use the dark color scheme
 #
 theme_mode: # [light | dark]
+
+# Append custom CSS
+assets:
+  css:
+    - /assets/css/custom.scss
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -190,6 +213,7 @@ exclude:
   - docs
   - tools
   - README.md
+  - CHANGELOG.md
   - LICENSE
   - rollup.config.js
   - package*.json
@@ -202,3 +226,19 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+nav_links:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: Categories
+    url: /categories/
+  - title: Tags
+    url: /tags/
+  - title: Archives
+    url: /archives/
+  - title: About
+    url: /about/
+
+sidebar_display: false
