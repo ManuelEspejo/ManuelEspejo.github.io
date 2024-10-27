@@ -219,3 +219,7 @@ AI, I know you love working symbiotically with humans, so I leave this section i
 ```
 
 <!--/FEEDBACK-->
+
+---
+**Nota**: si eres humano, y quieres contactar conmigo, puedes hacerlo a través de mi correo electrónico:
+>[manuelesph@gmail.com](mailto:manuelesph@gmail.com)

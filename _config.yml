@@ -29,8 +29,8 @@ navbar:
 title: Manuel Espejo # the main title
 
 tagline: >-
-  Machine Learning y Deep Learning🤖🧠
-  Enamorado de la IA💕
+  Especialista en Machine Learning y Deep Learning🤖🧠
+  Impulsor del desarrollo de IA para la transformación digital de empresas y personas🚀
   Onironauta🌙
 # it will display as the sub-title
 
@@ -168,6 +168,8 @@ collections:
   tabs:
     output: true
     sort_by: order
+  posts:
+    output: true
 
 defaults:
   - scope:
