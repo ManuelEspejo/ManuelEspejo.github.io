@@ -22,6 +22,10 @@ navbar:
     url: "/categories/"
   - title: "About"
     url: "/about/"
+  - title: "Terms and Conditions"
+    url: "/terms-and-conditions/"
+  - title: "Privacy Policy"
+    url: "/privacy-policy/"
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
