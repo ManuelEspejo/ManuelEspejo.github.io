@@ -5,6 +5,9 @@ categories: [IA, Líderes, Maestría]
 tags: [innovación,ia, habilidades-digitales, estrategia, maestría]
 ---
 
+![IMG Portada Liderazgo IA](/assets/img/posts_img/IMG%20Portada%20Liderazgo%20IA.png)
+> Del uso a la maestría de la IA (Dall-E 3)
+
 Hasta hace pocos años, la IA era un campo técnico reservado para expertos en programación y estadística. Hoy, gracias a herramientas como ChatGPT, Midjourney, Suno, entre otras, se ha vuelto accesible para cualquier persona con conexión a internet. Esto ha democratizado el acceso a la IA, pero también ha generado una falsa sensación de control y dominio.
 
 ## ¿Por qué Necesitamos Entender la IA si es Tan Fácil de Usar?
