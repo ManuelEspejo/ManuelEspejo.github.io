@@ -1,6 +1,6 @@
 ---
 title: Explora con Propósito. 5 Enfoques para Investigar sin Perderse en el Mar de Información
-date: 2024-11-12 21:38:00
+date: 2024-11-12
 categories: [Investigación, Aprendizaje]
 tags: [investigación, aprendizaje, conocimiento]
 ---
